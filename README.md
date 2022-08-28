@@ -1,8 +1,8 @@
 ### Hey!! 
 
 
-- 🔭 Atualmente trabalhando como Desenvolvedor Back-End com Nodejs(Typescript) e Serverless(AWS)
-- 🌱 Continuamente estudando javascript (Nodejs,Reactjs), Java, .Net 
+- 🔭 Atualmente trabalhando como Desenvolvedor Back-End com Nodejs(Typescript), Python  e AWS
+- 🌱 Continuamente estudando desenvolvimento Back-end.
 
 <div>
   <a href="https://github.com/stelmastchuk">
