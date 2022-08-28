@@ -1,7 +1,7 @@
 ### Hey!! 
 
 
-- 🔭 Atualmente trabalhando como Desenvolvedor Back-End com Nodejs(Typescript), Python  e AWS
+- 🔭 Atualmente trabalhando como Engenheiro de Software Back-End com Nodejs(Typescript), Python  e AWS
 - 🌱 Continuamente estudando desenvolvimento Back-end.
 
 <div>
