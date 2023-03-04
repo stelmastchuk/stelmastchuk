@@ -1,7 +1,7 @@
 ### Hey!! 
 
 
-- 🔭 Engenheiro de Software Back-End / MBA - Especialista em Cloud Computing.
+- 🔭 Engenheiro de Software / Desenvolvedor Back-End / MBA - Especialista em Cloud Computing.
 - ⚡ Tech Stack -> Nodejs (typescript), Python, Golang.  AWS & Azure
 - 🌱 Continuamente estudando desenvolvimento Back-end.
 
