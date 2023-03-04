@@ -1,7 +1,8 @@
 ### Hey!! 
 
 
-- 🔭 Atualmente trabalhando como Engenheiro de Software Back-End com Nodejs(Typescript), Python  e AWS
+- 🔭 Engenheiro de Software Back-End / MBA - Especialista em Cloud Computing.
+- ⚡ Tech Stack -> Nodejs (typescript), Python, Golang.  AWS & Azure
 - 🌱 Continuamente estudando desenvolvimento Back-end.
 
 <div>
