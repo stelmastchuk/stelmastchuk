@@ -18,6 +18,7 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Golang" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   
 </div>
   
